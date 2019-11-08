@@ -1,5 +1,6 @@
 .listitem {
     background-size: cover;
+    background-position: center;
     min-height: 15rem;
     padding: 1rem;
 }

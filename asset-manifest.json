@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aksande/static/css/main.7476a7fa.chunk.css",
+    "main.css": "/aksande/static/css/main.d7d91e23.chunk.css",
     "main.js": "/aksande/static/js/main.8d0d2961.chunk.js",
     "main.js.map": "/aksande/static/js/main.8d0d2961.chunk.js.map",
     "runtime-main.js": "/aksande/static/js/runtime-main.6231d7a7.js",
@@ -8,9 +8,9 @@
     "static/js/2.7557ee2d.chunk.js": "/aksande/static/js/2.7557ee2d.chunk.js",
     "static/js/2.7557ee2d.chunk.js.map": "/aksande/static/js/2.7557ee2d.chunk.js.map",
     "index.html": "/aksande/index.html",
-    "precache-manifest.0b5b1db4fc4ce250a554cbb4511b04a9.js": "/aksande/precache-manifest.0b5b1db4fc4ce250a554cbb4511b04a9.js",
+    "precache-manifest.3804eb2f643fe6fa9c6a0b653447507c.js": "/aksande/precache-manifest.3804eb2f643fe6fa9c6a0b653447507c.js",
     "service-worker.js": "/aksande/service-worker.js",
-    "static/css/main.7476a7fa.chunk.css.map": "/aksande/static/css/main.7476a7fa.chunk.css.map",
+    "static/css/main.d7d91e23.chunk.css.map": "/aksande/static/css/main.d7d91e23.chunk.css.map",
     "static/media/5cb4839d5f1b6d3fbadece7c.png": "/aksande/static/media/5cb4839d5f1b6d3fbadece7c.e2742fc9.png",
     "static/media/fontiran.css": "/aksande/static/media/IRANSansWeb_UltraLight.bb7ec39f.woff",
     "static/media/Pixabay_new_logo.svg.png": "/aksande/static/media/Pixabay_new_logo.svg.9c0832c5.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6231d7a7.js",
     "static/js/2.7557ee2d.chunk.js",
-    "static/css/main.7476a7fa.chunk.css",
+    "static/css/main.d7d91e23.chunk.css",
     "static/js/main.8d0d2961.chunk.js"
   ]
 }

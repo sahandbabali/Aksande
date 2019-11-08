@@ -1,0 +1,11 @@
+.listitem {
+    background-size: cover;
+    min-height: 15rem;
+    padding: 1rem;
+}
+
+
+.listitem p {
+    background-color: white;
+    display: inline-block;
+}

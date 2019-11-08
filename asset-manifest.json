@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aksande/static/css/main.34f9ee70.chunk.css",
+    "main.js": "/aksande/static/js/main.8d0d2961.chunk.js",
+    "main.js.map": "/aksande/static/js/main.8d0d2961.chunk.js.map",
+    "runtime-main.js": "/aksande/static/js/runtime-main.6231d7a7.js",
+    "runtime-main.js.map": "/aksande/static/js/runtime-main.6231d7a7.js.map",
+    "static/js/2.7557ee2d.chunk.js": "/aksande/static/js/2.7557ee2d.chunk.js",
+    "static/js/2.7557ee2d.chunk.js.map": "/aksande/static/js/2.7557ee2d.chunk.js.map",
+    "index.html": "/aksande/index.html",
+    "precache-manifest.19db470601f3773cba8b1d97846a682f.js": "/aksande/precache-manifest.19db470601f3773cba8b1d97846a682f.js",
+    "service-worker.js": "/aksande/service-worker.js",
+    "static/css/main.34f9ee70.chunk.css.map": "/aksande/static/css/main.34f9ee70.chunk.css.map",
+    "static/media/5cb4839d5f1b6d3fbadece7c.png": "/aksande/static/media/5cb4839d5f1b6d3fbadece7c.e2742fc9.png",
+    "static/media/fontiran.css": "/aksande/static/media/IRANSansWeb_UltraLight.bb7ec39f.woff",
+    "static/media/Pixabay_new_logo.svg.png": "/aksande/static/media/Pixabay_new_logo.svg.9c0832c5.png",
+    "static/media/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.png": "/aksande/static/media/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.c9014a62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6231d7a7.js",
+    "static/js/2.7557ee2d.chunk.js",
+    "static/css/main.34f9ee70.chunk.css",
+    "static/js/main.8d0d2961.chunk.js"
+  ]
+}
